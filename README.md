@@ -1,1 +1,7 @@
 # my-personal-repository
+
+I am Janritz Cabansag Graduate Course of Bachelor of Science 
+in Computer Science Major in Data Analyts in Holy Trinity College of
+General Santos City .
+
+Im Skilled in Creating Mobile App, Web Design, Web Application , Desktop Application .
