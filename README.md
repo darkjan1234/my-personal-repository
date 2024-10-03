@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [messageme](messageme)
 
-- ⚡ Fun fact **I Think Im Funny**
+- ⚡ Fun fact **I Think Im Funny **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
